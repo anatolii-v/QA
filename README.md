@@ -1,4 +1,4 @@
-# PORTFOLIO Anatolii Voronkin
+# Portfolio Anatolii Voronkin
 - Documentation
   <!--checklists-->
   <!--use cases-->
