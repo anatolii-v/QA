@@ -22,13 +22,12 @@
 ## Bug reports
 In examples below **required fields** of a bug report. Also, can include **optional fields** - Reporter, Submit date, Reproducibility rate, Additional information.
 ### Functional bug
-| ID  | Summary | Environment | Steps to reproduce | Expected result | Attachments | Priority | Severity | 
-| :--------| :--------| :--------- |:-------- |:-------- |:-------- |:-------- |:-------- |
-| 1| ------- |------------ |------------------- |1.|------------ |High   |Minor |
-| | |||2.|| ||
-| | |||3.|| ||
-| | |||4.|| ||
-| | |||5.|| ||
+| ID  | Summary | Environment | Steps to reproduce | Expected result | Actual result | Attachments | Priority | Severity | 
+| :--------| :--------| :--------- |:-------- |:-------- |:-------- |:-------- |:-------- |:-------- |
+| 1| Validation message in registration form doesn't appear  |Google Chrome Version |1.Go to https://petstore.octoperf.com/actions/Account.action?newAccountForm= |Notification, that not all field are filled |High   |Minor |
+| | |||2.Fill the fields 'User ID' and 'Password'|| ||
+| | |||3.Leave one of field 'User Information' empty|| ||
+| | |||4.Press Save Account Information|| ||
 
 | ID  | Summary | Environment | Steps to reproduce | Expected result | Attachments | Priority | Severity | 
 | :--------| :--------| :-------- |:-------- |:-------- |:-------- |:-------- |:-------- |
